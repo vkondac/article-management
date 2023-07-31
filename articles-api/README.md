@@ -6,7 +6,7 @@ node
 The connection string in nedded in the env here is the sample, it is set in `schema.prisma`:
 DATABASE_URL="mysql://USERNAME:PASSWORD@localhost:3306/DBNAME"
 
-The database (schema) need to be created mannualy,
+The database (schema) needs to be created mannualy,
 then run all of the migrations using prism CLI,
 Here are the docs: https://www.prisma.io/docs/getting-started/setup-prisma/start-from-scratch/relational-databases-node-mysql
 
